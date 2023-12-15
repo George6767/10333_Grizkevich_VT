@@ -7,3 +7,10 @@
 span.padd {
     padding-left: 60px;
 }
+.MyMarginLeft {
+    margin-left: 190px;
+}
+.form-check form-check-inline {
+    width: 200px;
+    margin-left: 50px;
+}
